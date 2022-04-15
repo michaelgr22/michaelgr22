@@ -6,7 +6,7 @@
 
 :battery: Convinced that technology can make the world more sustainable. :earth_africa:
 
-:mailbox: [Linkedin](https://www.linkedin.com/in/michael-graml/)
+:mailbox: [LinkedIn](https://www.linkedin.com/in/michael-graml/)
 
 <!---
 michaelgr22/michaelgr22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
